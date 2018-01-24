@@ -1,0 +1,12 @@
+ Volume in drive C is NetApp_Win10
+ Volume Serial Number is 8C4F-EC70
+
+ Directory of C:\Users\nishantg\Desktop\My Project
+
+01/24/2018  06:48 PM    <DIR>          .
+01/24/2018  06:48 PM    <DIR>          ..
+01/24/2018  06:21 PM                22 index.html
+01/24/2018  06:21 PM                37 test1.txt
+01/24/2018  06:48 PM                 0 test2.txt
+               3 File(s)             59 bytes
+               2 Dir(s)  46,694,027,264 bytes free
