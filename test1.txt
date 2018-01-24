@@ -1,10 +1,1 @@
- Volume in drive C is NetApp_Win10
- Volume Serial Number is 8C4F-EC70
-
- Directory of C:\Users\nishantg\Desktop\My Project
-
-01/24/2018  06:17 PM    <DIR>          .
-01/24/2018  06:17 PM    <DIR>          ..
-01/24/2018  06:17 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  46,706,024,448 bytes free
+Learning how to use GIT and GIT Hub
